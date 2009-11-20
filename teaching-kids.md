@@ -368,6 +368,12 @@ end
 
 !SLIDE
 
+### So...what about younger kids?
+* Sarah Allen's work - <font color="red">teachingkids.railsbridge.org</font>
+* Scratch - <font color="red">scratch.mit.edu</font>
+
+!SLIDE
+
 ### Acknowledgements
 ##### &nbsp;
 ##### Screenshots - Satoshi Asakawa (@ashbb)
@@ -378,6 +384,8 @@ end
 !SLIDE
 
 ### Thank you!
+##### &nbsp;
+##### github.com/sarahmei/teaching-kids-presentation
 ##### &nbsp;
 ##### sarahmei@gmail.com
 ##### @sarahmei
